@@ -23,5 +23,5 @@ import (
 
 func main() {
 	cmd.Execute()
-	fmt.Println("hello")
+	fmt.Println("hello11:")
 }
